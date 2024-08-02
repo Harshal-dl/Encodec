@@ -1,0 +1,12 @@
+{
+  "name": "encodec",
+  "version": "1.0.0",
+  "description": "A system which will compress the text file and also decompress it to original with the use of huffman algorithm!",
+  "main": "heap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}

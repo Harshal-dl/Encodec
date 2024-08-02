@@ -1,2 +1,2 @@
-# Encodec
-Basically it is a simple file compressor and decompressor using huffman coding
+# encodec
+A system which will compress the text file and also decompress it to original with the use of huffman algorithm!
